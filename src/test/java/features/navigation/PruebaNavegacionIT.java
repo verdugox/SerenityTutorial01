@@ -5,7 +5,6 @@
  */
 package features.navigation;
 
-
 import model.Category;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
