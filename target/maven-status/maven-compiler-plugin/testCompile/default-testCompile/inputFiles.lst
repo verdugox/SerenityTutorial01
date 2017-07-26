@@ -1,0 +1,11 @@
+/home/mcetsqa/tutorial1/src/test/java/features/navigation/PruebaNavegacionIT.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/ui/SearchBox.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/ui/EbayHomePage.java
+/home/mcetsqa/tutorial1/src/test/java/model/Category.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/tasks/Search.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/ui/GoogleSearchPage.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/ui/CategoryNavigationBar.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/ui/CurrentPage.java
+/home/mcetsqa/tutorial1/src/test/java/steps/NavigatinUser.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/tasks/OpenTheApplication.java
+/home/mcetsqa/tutorial1/src/test/java/net/serenitybdd/tutorials/features/search/SearchByKeywordStory.java

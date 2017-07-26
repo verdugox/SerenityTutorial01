@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="net.serenitybdd.tutorials.features.search.SearchByKeywordStory" skipped="0" tests="1" time="26.9" timestamp="2017-07-26T14:08:14.453-05:00[America/Lima]"><testcase classname="net.serenitybdd.tutorials.features.search.SearchByKeywordStory" name="Search results should show the search term in the title"><error message="Unable to locate element: {&quot;method&quot;:&quot;name&quot;,&quot;selector&quot;:&quot;q&quot;}&#10;Command duration or timeout: 2.08 seconds" type="org.openqa.selenium.NoSuchElementException">Unable to locate element: {"method":"name","selector":"q"}
+Command duration or timeout: 2.08 seconds</error><system-err>Unable to locate element: {"method":"name","selector":"q"}
+Command duration or timeout: 2.08 seconds
+net.serenitybdd.tutorials.tasks.Search.performAs(Search.java:24)
+net.serenitybdd.tutorials.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:43)
+</system-err></testcase></testsuite>

@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: net.serenitybdd.tutorials.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 29.185 sec <<< FAILURE! - in net.serenitybdd.tutorials.features.search.SearchByKeywordStory
+search_results_should_show_the_search_term_in_the_title(net.serenitybdd.tutorials.features.search.SearchByKeywordStory)  Time elapsed: 26.956 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: {"method":"name","selector":"q"}
+Command duration or timeout: 2.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'mcetsqa-HP-EliteBook-8470p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: driver.version: unknown
+	at net.serenitybdd.tutorials.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:43)
+
