@@ -1,14 +1,20 @@
 -------------------------------------------------------------------------------
 Test set: net.serenitybdd.tutorials.features.search.SearchByKeywordStory
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 29.185 sec <<< FAILURE! - in net.serenitybdd.tutorials.features.search.SearchByKeywordStory
-search_results_should_show_the_search_term_in_the_title(net.serenitybdd.tutorials.features.search.SearchByKeywordStory)  Time elapsed: 26.956 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 29.49 s <<< FAILURE! - in net.serenitybdd.tutorials.features.search.SearchByKeywordStory
+search_results_should_show_the_search_term_in_the_title(net.serenitybdd.tutorials.features.search.SearchByKeywordStory)  Time elapsed: 23.006 s  <<< ERROR!
 org.openqa.selenium.NoSuchElementException: 
-Unable to locate element: {"method":"name","selector":"q"}
-Command duration or timeout: 2.08 seconds
+The following error occurred: Unable to locate element: *[name='q']
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
-System info: host: 'mcetsqa-HP-EliteBook-8470p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'VERDUGOX', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{moz:profile=C:\Users\LUISAC~1\AppData\Local\Temp\rust_mozprofile.bSJTn6RLeuLM, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=7320, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 38f10897-404a-46e5-819b-2b567a30d4a0
+*** Element info: {Using=name, value=q}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'VERDUGOX', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_71'
 Driver info: driver.version: unknown
 	at net.serenitybdd.tutorials.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:43)
 
